@@ -1,4 +1,2 @@
 # FaZe_JG
-Data Quality Assessment
-Just run DataAssessment.ipynb.
-Pay attention to the file path, we use absolute file path. Therefore, changing file path in code before running is necessary.
+Just run DataAssessment.ipynb and you will see the same output as TLC_New_..._Result.csv 
