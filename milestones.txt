@@ -1,0 +1,10 @@
+I. First week 11/23 – 11/30: Analyze the relation between columns. Use Hadoop to handle
+every columns and show the incorrections. 
+job                                                  member           status
+String Vector Extraction and Similarity Evaluation   Juheng Yang      finish
+Three-Layer-Analyzing Algorithm                      Gaike Wang       finish
+
+II. Second week 12/1 – 12/7: Test the results of quality assessment and finish the report.
+job                                                  member           status
+Finish report                                        Juheng Yang      finish
+Test the results                                     Gaike Wang       finish
